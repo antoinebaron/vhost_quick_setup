@@ -4,6 +4,6 @@ This project provides a simple and efficient interface to quickly configure virt
 
 See the screenshot below
 
-![Capture du 2021-04-01 13-13-49](https://raw.githubusercontent.com/antoinebaron/utils/main/vhost_quick_setup/screenshot.png)
+![Capture du 2021-04-01 13-13-49](https://raw.githubusercontent.com/antoinebaron/vhost_quick_setup/screenshot.png)
 
 
